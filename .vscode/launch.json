@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": true,
+      "cwd": "/Users/a123/Documents/GitHub/LeetCode",
+      "environment": [],
+      "program": "/Users/a123/Documents/GitHub/LeetCode/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": true
+    }
+  ]
+}
